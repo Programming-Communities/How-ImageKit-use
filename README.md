@@ -4,6 +4,8 @@ Here's a **detailed step-by-step explanation** of how to integrate ImageKit.io i
 
 ---
 
+![alt text](image.png)
+
 ## **📂 Project Structure (Final)**
 ```markdown
 src/
